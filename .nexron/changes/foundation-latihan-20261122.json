@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "foundation-latihan-20261122",
+  "what": "Document the repository as a monitoring-only empty project without inventing application work",
+  "why": "User wants source-history monitoring for all repositories including empty ones",
+  "risks": "There is no genuine application code, tests or deployment; must not claim those exist",
+  "goal_impact": "Permit accurate GitHub continuity monitoring without misleading product status",
+  "actor_kind": "ai_generated",
+  "evidence": [
+    {
+      "repository_id": 969959086,
+      "kind": "source",
+      "path": "README.md",
+      "commit": "937ecbf9f69b3dd251e9de05457bc09383b97b09"
+    }
+  ],
+  "decision_id": "NXR-FOUNDATION-20261122-LATIHAN"
+}

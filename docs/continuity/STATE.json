@@ -1,10 +1,17 @@
 {
   "version": 1,
   "repository_id": 969959086,
-  "checkpoint_id": "onboarding",
-  "verified_at": "2026-11-21T14:53:27.860Z",
-  "foundation": "FOUNDATION_REQUIRED",
-  "actor_kind": "unknown",
-  "attribution": "UNVERIFIED",
-  "evidence": []
+  "checkpoint_id": "foundation_latihan_20261122",
+  "verified_at": "2026-11-22T11:55:40.322Z",
+  "foundation": "DOCUMENTED",
+  "actor_kind": "ai_generated",
+  "attribution": "AI_AUTHORED_CLAIM",
+  "evidence": [
+    {
+      "repository_id": 969959086,
+      "kind": "source",
+      "path": "README.md",
+      "commit": "937ecbf9f69b3dd251e9de05457bc09383b97b09"
+    }
+  ]
 }
